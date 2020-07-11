@@ -1,0 +1,85 @@
+#stopwatch {
+    text-align: center;
+    background-color: grey;
+    color: #fefefe;
+    border-radius: 50px;
+    margin: auto;
+    width: 250px;
+    padding: 12px;
+    border-color:#ff0000 !important;
+}
+
+#stopwatch1 {
+    text-align: center;
+    background-color: grey;
+    color: #fefefe;
+    border-radius: 70px;
+    margin: auto;
+    width: 250px;
+    padding: 12px;
+    border-color:#ff0000 !important;
+}
+
+.inline{
+    display: inline;
+}
+
+.btn {
+    padding: 10px;
+    border: 0px;
+    border-radius: 50%;
+    font-size: 15px;
+    background-color: #cccccc;
+    width: 35px;
+    margin: 5px 5px 5px 5px;
+    outline: none;
+}
+
+.btn:hover {
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+#timer {
+    padding: 10px;
+    font-size: 15pt;
+    color: #3b3b3b;
+    margin: auto;
+    width: fit-content;
+}
+
+.time {
+    background-color: #d6d6d6;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.time:hover {
+    background-color: #fefefe;
+}
+
+#laps {
+    border: 0px;
+    background-color: #cea8cc;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 12pt;
+    margin: 25px
+}
+
+.lapBtn {
+    border: 0px;
+    border-radius: 50%;
+    padding: 10px;
+    width: 50px;
+    background-color: #cccccc;
+    font-weight: bold;
+    height: 35px;
+    margin: 5px 5px 5px 5px;
+    cursor: pointer;
+}
+.lapBtn:hover{    
+        background-color: #ffffff;
+        cursor: pointer;
+    }
